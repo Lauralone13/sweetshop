@@ -1,0 +1,18 @@
+server:
+  port: 9001
+
+sweetshop:
+  storage-size:
+    numberOfProductsPlus20PercentPartyBags: 20
+  market:
+    url: http://localhost:9002/products
+
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost/sweetshop-products
+  security:
+    user:
+      name: sweetAdmin
+      password: sweetPassword

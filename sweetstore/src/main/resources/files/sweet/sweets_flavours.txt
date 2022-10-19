@@ -1,0 +1,498 @@
+50/50 Cherry Banana
+50/50 Lime Orange
+50/50 Orange Lemon
+50/50 Raspberry Pomegranate
+50/50 Strawberry Raspberry
+Nut Mix
+Fishy Fish
+Stinky Cheese
+Onion
+Garlic
+Pee
+Almond
+Amaretto
+Apple (Candy)
+Apple (Delicious)
+Apple (Fuji)
+Apple (Gala)
+Apple (Granny Smith)
+Apple (Red)
+Apple (Ripe)
+Apple Banana Smoothie
+Apple Cider
+Apple Double
+Apple Hoops
+Apple (Juice)
+Apple Peach Smoothie
+Apple Pie (A la mode)
+Apple Pie (Cinnamon)
+Apple Strudel
+Apricot
+Avocado
+Bacon
+Baked Apple
+Baked Honey Oats Cereal
+Banana
+Banana (Candy)
+Banana (Ripe)
+Banana Cream Pie
+Banana Custard
+Banana Nut Bread
+Banana Nut Pudding
+Banana Split
+Banana Sweet Cream
+Banana's Gone Nuts
+Bananas Foster
+Barbecue
+Basil
+Bavarian Cream
+Beignets
+Big Popsicle Stick
+Big Red
+Black Cherry
+Black Tea
+Blackberry
+Blackberry Cobbler
+Black Licorice
+Blast of Baja
+Blood Orange
+Blow Popsicle
+Blueberry
+Blueberry (Candy)
+Blueberry (Fruit)
+Blueberry (Juicy)
+Blueberry Cheesecake
+Blueberry Cotton Candy
+Blueberry Pie
+Blueberry Shortcake
+Blue Raspberry (Candy)
+Blue Raspberry Cotton Candy
+Blue Raspberry Square Candy
+Bonanza Bob Bubble Gum
+Bourbon Whiskey
+Boysenberry
+Boysenberry Pie
+Bread Pudding
+Brown Sugar
+Bubble-Bubble Pink Gum
+Burnt Sugar
+Buttered Popcorn
+Butter Pecan
+Butter Pecan Ice Cream
+Butter Rum
+Butter Toffee
+Butterscotch (Candy)
+Cactus Soda
+Cake (Blueberry Coco)
+Cake (Raspberry Coco)
+Cake (Yellow)
+Cake Batter
+Candy Corn
+Cantaloupe
+Captain Cereal
+Captain N Berries
+Caramel Candy Squares
+Caramel Cone
+Caramel Cream
+Caramel Drizzle Cheesecake
+Caramel Chocolate Mix
+Caramel
+Caramel Popcorn
+Cardamom
+Caribbean Coconut
+Carrot Cake
+Cheese
+Cheddar Cheese
+Cheesecake
+Cherry (Hard Candy)
+Cherry Berry
+Cherry Blossom Tea
+Cherry Cola
+Cherry Pie
+Chili
+Chocolate
+Chocolate Cookie
+Chocolate (Powder)
+Chocolate Brownie
+Chocolate Cheesecake
+Chocolate Chip Cookie
+Chocolate Churro
+Chocolate Dark Candy Roll
+Chocolate Milk
+Chocolate Peanut Cup
+Chocolate Peppermint Candy
+Chocolate Strawberry
+Churro
+Cinnamon Bears
+Cinnamon Crunch Cereal
+Cinnamon Danish Swirl
+Cinnamon Roll
+Cinnamon Roll Caramel
+Citrus Punch
+Clove
+Coco Stones Cereal
+Coconut
+Coconut Rum
+Coconut White Chocolate
+Coconut Dark Chocolate
+Coconut (Toasted)
+Coconut Candy
+Concord Grape
+Coconut Cream Pie
+Coconut Milk
+Coffee (Black)
+Coffee
+Coffee (Milk)
+Coffee Chocolate
+Coffee Cream
+Cola
+Cola Orange
+Cola Mix
+Cola Vanilla
+Cola Cherry
+Condensed Caramel Milk
+Condensed Milk
+Cookie
+Cookie C's Cereal
+Cookie Dough
+Cookies & Cream
+Corn Bread
+Corn Puffs
+Corn Tortilla
+Cosmopolitan Martini
+Cranberry
+Cranberry Cherry
+Cranberry Cookie
+Cream - OOO Blend I
+Cream - OOO Blend II
+Cream - OOO Blend III
+Cream Milky Undertone
+Cream Soda
+Creamy Yogurt Cheesecake
+Crème Bouquet
+Crème Brulee
+Cucumber
+Cucumber w/Mint
+Crushin' Grape
+Crushin' Orange
+Caramel Custard
+Custard
+Date
+Double Dutch Chocolate
+Dr. Soda
+Dragon Fruit
+Dulce de Leche
+Dutch Chocolate
+Egg Nog
+Energy Booster
+Energy Drink (Green)
+Energy Drink (Red)
+Energy Rock
+Ethyl Maltol
+Eucalyptus
+Evaporated Milk
+Firni Pudding
+Flan
+French Toast
+Fruity Circles Cereal
+Frosted Froops
+Fruit Mix
+Fruit Punch
+Fruity Flakes
+Fruits Tropical
+Fruits Seasonal
+Fudge Brownie
+Garlic
+Ginger Ale Soda
+Ginger Beer
+Gingerbread Cookie
+Ginger Pumpkin Spice Latte
+Girly Cookies (Caramel Coco)
+Girly Cookies (Choco Mint)
+Girly Cookies (Lemonades)
+Girly Cookies (Shortbread)
+Glazed Donut
+Gold Series - Super Sweet
+Gold Series - Sweetened Double Apple
+Gold Series - Sweetened Guava
+Gold Series - Sweetened Honeydew Melon
+Gold Series - Sweetened Strawberry
+Gold Series - Sweetened Sweet Cream
+Gold Series - Sweetened Watermelon
+Golden Greats Cereal
+Golden Sponge Cake
+Graham Cracker
+Grape (Punch)
+Grape Soda
+Green Apple (Candy)
+Green Apple (Caramel)
+Green Tea
+Grenadine
+Guava
+Guava (Fresh)
+Guava (Ripe)
+Gummy Bear
+Gummy Fish Candy
+Happy Hard Candy (Apple)
+Happy Hard Candy (Cherry)
+Happy Hard Candy (Grape)
+Happy Hard Candy (Strawberry)
+Happy Hard Candy (Watermelon)
+Happy Chewy Candy (Apple)
+Happy Chewy Candy (Banana)
+Happy Chewy Candy (Cherry)
+Happy Chewy Candy (Green Apple)
+Happy Chewy Candy (Strawberry)
+Harvest Berry
+Hazelnut
+Hazelnut Peanut
+Hazelnut Chocolate Spread
+Honey Milk
+Honey Banana
+Honey Puffs
+Honeydew Melon
+Horchata
+Hot Chile Pepper
+Hot Mexican Candy
+Iced Tea
+Irish Cream
+Ketchup
+Key Lime
+Key Lime Pie
+Kiwi
+Lemon
+Lemon Cheesecake
+Lemon Lime Up Soda
+Lemon Muffin
+Lemon Pound Cake
+Lemon Round Candy
+Lemon Tea
+Lemonade
+Lime
+Lime Sorbet
+Lychee
+Mai Tai
+Malted Milk
+Mango (Candy)
+Mango (Green)
+Mango (Ripe)
+Mango Sorbet
+Mango (Sweet)
+Maple Pecan Pie
+Maple Syrup
+Maraschino Cherry
+Marshmallow Cereal
+Marshmallow (Vanilla)
+Marshmallow (White Puffy)
+Marzipan
+Mashed Potato
+Melon
+Melon Gummy Candy
+Melon (Hard Candy)
+Menthol
+Merlot
+Milk
+Milk Chocolate Candy Bar
+Milk Shake (Banana)
+Milk Shake (Chocolate)
+Milk Shake (Vanilla)
+Milk Tea
+Mint
+Mojito
+Mountain Soda
+Mustard
+Neapolitan Ice Cream
+New York Cheesecake
+Norwegian Ring Cake
+Nutmeg
+Nutty Professor
+Nutty Professor
+O's Cookie
+Oatmeal
+Onion
+Orange Lemon
+Orange
+Orange (Popsicle)
+Orange Juice
+Orange Sherbet Ice Cream
+Orange Square Candy
+Pancake
+Papaya
+Parmesan Cheese
+Passion Fruit
+Grape Jelly
+Peach
+Peach Cobbler
+Peaches & Cream
+Peach (Fresh)
+Peach (Ripe)
+Peach (Sweet)
+Peach Ring Candy
+Peach Sorbet
+Peanut Butter
+Peanut Butter Cereal Balls
+Pear (Juicy)
+Peppermint
+Pie Crust
+Pickle
+Pina Colada
+Pineapple
+Pineapple (Candy)
+Pineapple Chile
+Pineapple Juice
+Pineapple Orange Banana Sorbet
+Pineapple Peach
+Pineapple Sherbet Ice Cream
+Pineapple Soda
+Pineapple Sorbet
+Pineapple Upside Down Cake
+Pink Lemonade
+Pink Square Candy
+Pistachio Ice Cream
+Pistachio Pudding
+Pitaya
+Pizza
+Plum
+Pop Pastry (Frosted)
+Pomegranate
+Pop Pastry (Blueberry)
+Pop Pastry (Chocolate)
+Pop Pastry (Cinnamon Bun)
+Pop Pastry (Mixed Berries)
+Pop Pastry (Peanut Butter)
+Pop Pastry (Strawberry)
+Pound Cake
+Powdered Sugar
+Pumpkin
+Pumpkin Cookie
+Pumpkin Pie
+Pumpkin Spice
+Rainbow Candy
+Rainbow Sherbet (House)
+Rainbow Sherbet (Top Shelf)
+Raisin Bread
+Raisin Flakes Cereal
+Raspberry
+Raspberry (Candy)
+Raspberry (Fresh)
+Raspberry (Hard Candy)
+Rhubarb Crisp
+Rice K's Cereal
+Raspberry (Lemonade)
+Raspberry Shortcake
+Red Cherry Sour Balls
+Red Square Candy
+Raspberry Sorbet
+Real Honey
+Red Velvet
+Rice Cookie
+Rice Milk
+Rice Pudding
+Root Beer
+Root Beer Float
+Rye Bread
+Sage
+Salsa
+Salted Caramel
+Score (Candy) Toffee
+Sleep Aid
+Slix Cereal Balls
+S'mores
+Snickerdoodle Cookie
+Soft Cinnamon
+Sourdough Bread
+Spearmint
+Speckled Flakes Cereal
+Spiced Apple Cider
+Spumoni Ice Cream
+Squaw Bread
+Squirts Soda
+Sriracha
+Strawberry
+Strawberry Apple (Sour Belts)
+Strawberry Banana (Sour Belts)
+Strawberry Candy
+Strawberry Cheesecake
+Strawberry Cookie
+Strawberry Cotton Candy
+Strawberry (Fresh)
+Strawberry (Fruit)
+Strawberry Jam
+Strawberry Kiwi
+Strawberry (Ripe)
+Strawberry (Sour Belts)
+Strawberry (Smushed)
+Strawberry Lemonade
+Strawberry Milk
+Strawberry Rocks (Fizz)
+Strawberry Shortcake
+Strawberry Souffle
+Strawberry Swirl
+Strawberry Watermelon (Sour Belts)
+Strawberry Yogurt
+Strawnilla
+Sugar Butter Cookie
+Sugar Cone
+Sugar (Liquid)
+Sugar Plum
+Sweet & Tart Candy
+Sweet Cream
+Sweet Dates
+Sweet Ice Cream
+Sweet Lemon
+Sweet Potato
+Sweet Tea
+Tamarind
+Tangerine
+Tapioca Pudding
+Teriyaki
+Thai Tea
+Tiramisu
+Toasted Flakes
+Toasted Marshmallow
+Tutti Frutti
+Trio Berry
+Tropical Blend
+Tropical Rainbow Candy
+Van Ice Cream
+Vanilla
+Vanilla Bean Ice Cream
+Vanilla Butternut
+Vanilla Cola
+Vanilla Cream
+Vanilla Cupcake
+Vanilla Custard
+Vanilla Custard Cheesecake
+Vanilla (French)
+Vanilla Frosting
+Vanilla Ice Cream Shake
+Vanilla Maple
+Vanilla Pudding
+Vanilla Strawberry Honey
+Vanilla Wafer
+Waffle (Belgian)
+Wasabi
+Watermelon Bang
+Watermelon Candy
+Watermelon
+Watermelon (Double)
+Watermelon (Fresh)
+Watermelon Gummy Candy
+Watermelon Rocks (Fizz)
+Wheat Bread
+Whipped Cream
+White Chocolate Kip Kap
+White Chocolate Mac Nut
+White Chocolate Mocha
+White Tea
+Wild Berry
+Wild Berry Rainbow Candy
+Wild Cherry
+Wintergreen Candy
+Yellow Square Candy
+Yogurt Strawberry
+Yogurt Strawberry Cake
+Yogurt Cookie
+Joke Candy Fish
+Joke Candy Extreme Sour
+Joke Candy Rotten Egg

@@ -1,0 +1,29 @@
+server:
+  port: 9002
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost/sweetshop?useSSL=false
+    username: root
+    password: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+sweetshop:
+  store:
+    authentication:
+      username: sweetAdmin
+      password: sweetPassword
+    products:
+      url: http://localhost:9001/products
+    storage:
+      url: http://localhost:9001/storage
+  market:
+    user:
+      admin:
+        username: marketAdmin
+        password: marketPassword
+        authorities: ROLE_ADMIN, ROLE_CUSTOMER
+      customer:
+        authorities: ROLE_CUSTOMER
